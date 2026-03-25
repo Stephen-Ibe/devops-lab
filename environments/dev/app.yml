@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_USERNAME/devops-lab
+    repoURL: https://github.com/stephen-ibe/devops-lab
     targetRevision: HEAD
     path: apps/nginx
   destination:
