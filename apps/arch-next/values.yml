@@ -1,0 +1,8 @@
+replicaCount: 1
+
+image:
+  repository: kalsonsaint/arch-next
+  tag: v1
+
+service:
+  port: 3000
